@@ -2,7 +2,7 @@
 
 💻👨‍💻 I'm Felipe Luna, Software Engineer at @totvs with more than 9 years of experience, working in the area of ​​Development of new functionalities and maintenance of routines for ERP Microsiga Protheus and TSS (TOTVS Service Soa), from use to business rule.
 
-• Development of automated test scripts: Unit Test (AdvPR, Jasmine/Karma) and Interface Test (TIR - Totvs Interface Robot). Tools used in the AdvPR and TIR process;
+• Development of automated test scripts: Unit Test (AdvPR, Jasmine/Karma) and Interface Test (TIR - Totvs Interface Robot).
 
 
 - 🔭 I’m currently working on Portal TSS + New NFS-e projects.
