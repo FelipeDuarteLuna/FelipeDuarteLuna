@@ -10,9 +10,6 @@
 
 • Software for version control: Azure DevOps, Git, GitHub and TFS (Team Foundation Server).
 
-• Agile Software: Jira, Zendesk and Ryver.
-
-
 
 - 🔭 I’m currently working on Portal TSS + New NFS-e projects.
 - 🌱 I’m currently learning Angular, Jasmine/Karma and Docker.
