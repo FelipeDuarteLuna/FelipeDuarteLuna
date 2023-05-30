@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning Angular, Jasmine/Karma and Docker.
 - 👯 I’m looking to collaborate on Projects and Mentoring.
 - 📫 How to reach me: Felipe Duarte Luna
-- ⚡ Fun fact: ...
 
 
 ### ⚡ Technologies
