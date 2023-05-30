@@ -4,11 +4,11 @@
 
 • Programming Languages: Angular, JavaScript, HTML5, CSS, Bootstrap 4, Java, Spring, Spring Boot, Spring data, TL++ and AdvPL.
 
-• Database: SQL Server, Oracle and MySQL.
+• Database: SQL Server, Oracle, MySQL, SQLite and PostgreSql.
 
 • Development of automated test scripts: Unit Test (AdvPR, Jasmine/Karma) and Interface Test (TIR - Totvs Interface Robot). Tools used in the AdvPR and TIR process;
 
-• Software for version control: Azure DevOps, Git, GitHub and TFS (Team Foundation Server).
+• Software for version control: Azure DevOps, Git, GitHub, Giteia and TFS (Team Foundation Server).
 
 
 - 🔭 I’m currently working on Portal TSS + New NFS-e projects.
