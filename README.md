@@ -2,8 +2,6 @@
 
 💻👨‍💻 I'm Felipe Luna, Software Engineer at @totvs with more than 9 years of experience, working in the area of ​​Development of new functionalities and maintenance of routines for ERP Microsiga Protheus and TSS (TOTVS Service Soa), from use to business rule.
 
-• Programming Languages: Angular, JavaScript, HTML5, CSS, Bootstrap 4, Java, Spring, Spring Boot, Spring data, TL++ and AdvPL.
-
 • Development of automated test scripts: Unit Test (AdvPR, Jasmine/Karma) and Interface Test (TIR - Totvs Interface Robot). Tools used in the AdvPR and TIR process;
 
 
