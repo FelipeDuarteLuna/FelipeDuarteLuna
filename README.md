@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate on Projects and Mentoring.
 - 📫 How to reach me: Felipe Duarte Luna
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-duarte-luna/)
+
 
 ### ⚡ Technologies
 These are some of the technologies and tools that I work with:
