@@ -1,13 +1,13 @@
 ### Hi there👋
 
-💻👨‍💻 I'm Felipe Luna, Software Engineer at @totvs with more than 9 years of experience, working in the area of ​​Development of new functionalities and maintenance of routines for ERP Microsiga Protheus and TSS (TOTVS Service Soa), from use to business rule.
+💻👨‍💻 I'm Felipe Luna, Software Engineer at @totvs with more than 10 years of experience, working in the area of ​​Development of new features and maintenance of routines for ERP Microsiga Protheus and TSS (TOTVS Service Soa), from usability to business rules.
 
-• Development of automated test scripts: Unit Test (AdvPR, Jasmine/Karma) and Interface Test (TIR - Totvs Interface Robot).
+• ✅ Development of automated test scripts: Unit Tests (AdvPR, Jasmine/Karma) and e2ed Interface Tests (TIR - Totvs Interface Robot and Cypress).
 
 
-- 🔭 I’m currently working on Portal TSS + New NFS-e projects.
-- 🌱 I’m currently learning Angular, Jasmine/Karma and Docker.
-- 👯 I’m looking to collaborate on Projects and Mentoring.
+- 👨‍💻🧑‍💼 I'm currently working on Dashboard Documentos Processados ​​(Front) + TSS 4.0.0 (Back-End) projects.
+- 📚 I'm currently learning Angular, Cypress, C#, Docker and Devops(ci&cd).
+- 👯 I'm currently collaborating on Mentoring Project the [Portal Ascepa](https://github.com/techexpertspro/portal-ascepa)
 - 📫 How to reach me: Felipe Duarte Luna
 
   <a href="https://www.linkedin.com/in/felipe-duarte-luna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -27,6 +27,11 @@ These are some of the technologies and tools that I work with:
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="Nx" src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
+  <img  align="center" alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white" />
+  <img  align="center" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img  align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="Sql Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
@@ -40,6 +45,7 @@ These are some of the technologies and tools that I work with:
   <img  align="center" alt="FireBase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img  align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img  align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img  align="center" alt="Gitea" src="https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425" />
   <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <img  align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img  align="center" alt="Ecplise" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
